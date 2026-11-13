@@ -1,1 +1,12 @@
-/* test */
+/* Blackwater Bruisers club palette tokens — v2.1.0 */
+:root {
+  --bruisers-maroon: #5a1a1a;
+  --bruisers-rust: #9b4a2f;
+  --bruisers-sand: #efe6d8;
+  --bruisers-iron: #2b2b2b;
+  --bruisers-white: #faf7f2;
+  --font-display: "Bebas Neue", Impact, sans-serif;
+  --font-body: "Roboto Condensed", Arial, sans-serif;
+  --radius-sm: 3px;
+  --radius-md: 6px;
+}
